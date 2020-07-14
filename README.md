@@ -1,6 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Kode Platform
 - 🌱 I’m currently learning Tran Van Thoi High School (Ca Mau/VietNam)
 - 👯 I’m looking to collaborate on Linux and JS Open Foundation

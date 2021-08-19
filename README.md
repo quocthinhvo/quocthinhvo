@@ -1,5 +1,10 @@
 ### Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=quocthinhvo)
+## Streak
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quocthinhvo" />
+</a>
+
 ## About me 👀
 ```javascript
 let quocthinhvo = {
@@ -15,6 +20,3 @@ let quocthinhvo = {
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)]()
-
-## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quocthinhvo)]()

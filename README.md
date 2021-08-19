@@ -1,9 +1,5 @@
 ### Hi there 👋 
 ![](https://komarev.com/ghpvc/?username=quocthinhvo)
-## Streak
-<a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quocthinhvo" />
-</a>
 
 ## About me 👀
 ```javascript
@@ -15,6 +11,10 @@ let quocthinhvo = {
   school: "Tran Van Thoi High School"
 }
 ```
+
+## Github Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quocthinhvo&theme=radical)]()
+
 ## Github Stats
 [![QuocThinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocthinhvo&count_private=true&show_icons=true&theme=radical&include_all_commits=true)]()
 

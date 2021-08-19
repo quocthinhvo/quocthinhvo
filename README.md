@@ -16,7 +16,7 @@ let quocthinhvo = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quocthinhvo&theme=radical)]()
 
 ## Github Stats
-[![QuocThinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocthinhvo&count_private=true&show_icons=true&theme=radical&include_all_commits=true)]()
+[![QuocThinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocthinhvo&count_private=true&show_icons=true&theme=radical)]()
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)]()

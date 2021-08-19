@@ -16,7 +16,7 @@ let quocthinhvo = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)]()
 
 ## Wakatime Week Stats
-[![QuocThinh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quocthinhvo&theme=radical&layout=compact)]()
+[![QuocThinh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quocthinhvo&theme=radical)]()
 
 
 

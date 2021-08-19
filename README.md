@@ -15,3 +15,7 @@ let quocthinhvo = {
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)]()
+
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+

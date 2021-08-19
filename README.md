@@ -1,4 +1,5 @@
-### Hi there 👋   
+### Hi there 👋 
+![](https://komarev.com/ghpvc/?username=quocthinhvo)
 ## About me 👀
 ```javascript
 let quocthinhvo = {
@@ -14,9 +15,3 @@ let quocthinhvo = {
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)]()
-
-## Wakatime Week Stats
-[![QuocThinh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quocthinhvo&theme=radical)]()
-
-
-

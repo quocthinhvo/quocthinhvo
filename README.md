@@ -8,6 +8,7 @@ let quocthinhvo = {
   name: "Võ Quốc Thịnh",
   birthday: 2004,
   emailContact: "quocthinhvo@protonmail.com",
+  myBlog: "https://quocthinhvo.github.io",
   from: "Kode",
   school: "Tran Van Thoi High School"
 }

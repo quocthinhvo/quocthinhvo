@@ -1,5 +1,4 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
-[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=AlphaNecron.AlphaNecron&label=VISITIORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=5865F2&style=for-the-badge)](#)
 
 ![](https://komarev.com/ghpvc/?username=quocthinhvo)
 
@@ -84,6 +83,7 @@ let quocthinhvo = {
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)
+  
 </details>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)

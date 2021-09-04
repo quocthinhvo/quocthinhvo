@@ -9,6 +9,7 @@ let quocthinhvo = {
   birthday: 2004,
   emailContact: "quocthinhvo@protonmail.com",
   facebook: "quocthinhvo.dev",
+  twitter: "quocthinhvo",
   myBlog: "https://quocthinhvo.github.io",
   from: "Kode",
   school: "Tran Van Thoi High School"

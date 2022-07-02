@@ -10,7 +10,7 @@ let quocthinhvo = {
   emailContact: "quocthinhvo@protonmail.com",
   facebook: "quocthinhvo.dev",
   twitter: "quocthinhvo",
-  myBlog: "https://quocthinhvo.github.io",
+  myBlog: "quocthinhvo.dev",
   from: "Kode",
   school: "Tran Van Thoi High School"
 }

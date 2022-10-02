@@ -12,7 +12,7 @@ let quocthinhvo = {
   twitter: "quocthinhvo",
   myBlog: "quocthinhvo.dev",
   from: "Kode",
-  school: "Tran Van Thoi High School"
+  school: "University of Information Technology - UIT"
 }
 ```
 

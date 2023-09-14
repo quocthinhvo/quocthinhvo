@@ -7,11 +7,11 @@
 let quocthinhvo = {
   name: "Võ Quốc Thịnh",
   birthday: 2004,
-  emailContact: "quocthinhvo@protonmail.com",
+  emailContact: "thinhvq@tensoract.io",
   facebook: "quocthinhvo.dev",
   twitter: "quocthinhvo",
   myBlog: "quocthinhvo.dev",
-  from: "Kode",
+  from: "Kode - Tensoract",
   university: "University of Information Technology - UIT"
 }
 ```
@@ -19,8 +19,6 @@ let quocthinhvo = {
 ## Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quocthinhvo&theme=radical)](https://www.github.com/quocthinhvo)
 
-## Github Stats
-[![QuocThinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quocthinhvo&count_private=true&show_icons=true&theme=radical)](https://www.github.com/quocthinhvo)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocthinhvo&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/quocthinhvo)

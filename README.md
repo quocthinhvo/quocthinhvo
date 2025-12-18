@@ -7,7 +7,7 @@
 let quocthinhvo = {
   name: "Võ Quốc Thịnh",
   birthday: 2004,
-  emailContact: "thinhvq@tensoract.io",
+  emailContact: "thinhvq@tensoract.vn",
   facebook: "quocthinhvo.dev",
   twitter: "quocthinhvo",
   myBlog: "quocthinhvo.dev",
